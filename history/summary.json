@@ -4,16 +4,16 @@
     "url": "https://telebot-app-serverless-i7z8-chenhaonanniubi.vercel.app/checkhealth",
     "icon": "https://icons.duckduckgo.com/ip3/telebot-app-serverless-i7z8-chenhaonanniubi.vercel.app.ico",
     "slug": "tt",
-    "status": "up",
-    "uptime": "98.27%",
-    "uptimeDay": "94.09%",
+    "status": "down",
+    "uptime": "98.28%",
+    "uptimeDay": "94.08%",
     "uptimeWeek": "89.57%",
-    "uptimeMonth": "94.33%",
-    "uptimeYear": "98.27%",
+    "uptimeMonth": "94.38%",
+    "uptimeYear": "98.28%",
     "time": 4291,
-    "timeDay": 3643,
-    "timeWeek": 4114,
-    "timeMonth": 4424,
+    "timeDay": 3627,
+    "timeWeek": 4109,
+    "timeMonth": 4422,
     "timeYear": 4291,
     "dailyMinutesDown": {
       "2023-05-21": 16,
@@ -36,7 +36,7 @@
       "2023-05-04": 97,
       "2023-05-03": 49,
       "2023-05-02": 198,
-      "2023-05-01": 44
+      "2023-05-01": 21
     }
   }
 ]
