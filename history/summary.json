@@ -6,17 +6,17 @@
     "slug": "tt",
     "status": "up",
     "uptime": "98.52%",
-    "uptimeDay": "87.87%",
-    "uptimeWeek": "88.51%",
-    "uptimeMonth": "93.49%",
+    "uptimeDay": "91.77%",
+    "uptimeWeek": "88.72%",
+    "uptimeMonth": "93.48%",
     "uptimeYear": "98.52%",
-    "time": 4311,
-    "timeDay": 3895,
-    "timeWeek": 4242,
-    "timeMonth": 4366,
-    "timeYear": 4311,
+    "time": 4310,
+    "timeDay": 4135,
+    "timeWeek": 4232,
+    "timeMonth": 4364,
+    "timeYear": 4310,
     "dailyMinutesDown": {
-      "2023-06-24": 130,
+      "2023-06-24": 119,
       "2023-06-23": 315,
       "2023-06-22": 133,
       "2023-06-21": 111,
@@ -34,7 +34,7 @@
       "2023-06-09": 140,
       "2023-06-08": 125,
       "2023-06-07": 169,
-      "2023-06-06": 93
+      "2023-06-06": 111
     }
   }
 ]
