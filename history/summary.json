@@ -6,17 +6,17 @@
     "slug": "tt",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "84.76%",
-    "uptimeWeek": "88.20%",
-    "uptimeMonth": "94.05%",
+    "uptimeDay": "89.40%",
+    "uptimeWeek": "88.31%",
+    "uptimeMonth": "94.03%",
     "uptimeYear": "99.29%",
-    "time": 4359,
-    "timeDay": 5083,
-    "timeWeek": 4837,
-    "timeMonth": 4572,
-    "timeYear": 4359,
+    "time": 4360,
+    "timeDay": 5583,
+    "timeWeek": 4861,
+    "timeMonth": 4576,
+    "timeYear": 4360,
     "dailyMinutesDown": {
-      "2023-10-22": 200,
+      "2023-10-22": 189,
       "2023-10-21": 116,
       "2023-10-20": 243,
       "2023-10-19": 141,
@@ -31,7 +31,7 @@
       "2023-10-10": 122,
       "2023-10-09": 145,
       "2023-10-08": 250,
-      "2023-10-07": 182
+      "2023-10-07": 201
     }
   }
 ]
