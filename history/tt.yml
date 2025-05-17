@@ -1,7 +1,7 @@
 url: https://telebot-app-serverless-i7z8-chenhaonanniubi.vercel.app/checkhealth
-status: down
-code: 500
-responseTime: 6688
-lastUpdated: 2025-05-17T04:22:17.702Z
+status: up
+code: 200
+responseTime: 6695
+lastUpdated: 2025-05-17T04:52:31.625Z
 startTime: 2023-02-10T14:45:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
