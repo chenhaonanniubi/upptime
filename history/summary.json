@@ -6,16 +6,17 @@
     "slug": "tt",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "84.22%",
-    "uptimeWeek": "82.10%",
-    "uptimeMonth": "92.23%",
+    "uptimeDay": "82.26%",
+    "uptimeWeek": "81.82%",
+    "uptimeMonth": "92.21%",
     "uptimeYear": "99.35%",
-    "time": 5146,
+    "time": 5144,
     "timeDay": 5314,
-    "timeWeek": 5162,
-    "timeMonth": 5450,
+    "timeWeek": 5173,
+    "timeMonth": 5452,
     "timeYear": 5152,
     "dailyMinutesDown": {
+      "2025-07-18": 28,
       "2025-07-17": 227,
       "2025-07-16": 342,
       "2025-07-15": 441,
@@ -30,7 +31,7 @@
       "2025-07-06": 207,
       "2025-07-05": 231,
       "2025-07-04": 269,
-      "2025-07-03": 171
+      "2025-07-03": 152
     }
   }
 ]
